@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on this and that
-- 🌱 I’m currently trying to learn and do some things in C# and Rust
+- 🌱 I’m currently learning Scala
 
 <!--
 **majesnix/majesnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
